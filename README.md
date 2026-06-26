@@ -104,4 +104,13 @@ flowchart LR
 
 ---
 
+## 系列案例 | Part of a series
+
+這是「**用 AI Agent 逆向 + 現代化 legacy 企業系統**」定位下的案例之一，與另外兩案互補：
+
+- 🏗️ **[Legacy Modernization Framework](https://github.com/gcjack1124/legacy-modernization-framework)** — 多 Agent 工序鏈 + 15+1 維度審查方法論（4GL → SQL Server SP）
+- 🔌 **[eip-form-mcp](https://github.com/gcjack1124/eip-form-mcp)** — 把一個無文件企業系統，逆向成 AI Agent 可呼叫的 MCP 工具鏈
+
+---
+
 > 本專案為企業內部系統，所有說明均已去識別化，不含真實內網位址、憑證、資料庫物件與業務資料。
